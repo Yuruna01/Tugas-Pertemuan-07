@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><cente>List Mahasiswa dan Program studi</cente></h1>
+        <h1><center>List Mahasiswa dan Program studi</center></h1>
         <table align="center" border=2>
             <thead>
                 <tr>
