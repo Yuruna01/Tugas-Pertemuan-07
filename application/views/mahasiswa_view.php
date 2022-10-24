@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1><cente>List Mahasiswa dan Program studi</cente></h1>
-        <table>
+        <table align="center" border=2>
             <thead>
                 <tr>
                     <th>Nim</th>
